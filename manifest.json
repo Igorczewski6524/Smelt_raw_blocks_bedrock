@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "With this datapack you can smelt raw blocks",
+    "name": "Smelt raw blocks",
+    "uuid": "1dd48c0d-0f2f-4607-9eaa-cf0fb0e10ba0",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Recipes",
+      "type": "data",
+      "uuid": "326db2c6-aca2-4f98-8284-ab11b78a94db",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Igorczewski6524"],
+    "license": "GNU GPLv3"
+  }
+}
